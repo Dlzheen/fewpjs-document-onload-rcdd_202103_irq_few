@@ -1,2 +1,4 @@
 // Your code goes here
-document.addEventListener
+document.addEventListener("DOMContentLoaded", function (){
+  document.query
+})
