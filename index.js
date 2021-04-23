@@ -1,4 +1,4 @@
 // Your code goes here
 document.addEventListener("DOMContentLoaded", function (){
-  document.query
+  document.getElementById("text").innerHTML = ""
 })
